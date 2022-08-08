@@ -1,0 +1,10 @@
+admin
+root
+manager
+system
+jysystem
+secadm
+auditadm
+system
+mail_admin
+管理员
